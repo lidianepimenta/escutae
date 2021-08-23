@@ -19,6 +19,9 @@ FEATURES
 3. Search for album, track or artist
 4. Like preview songs
 
-INSTALL MANUALLY: 
-# in your project folder
+SETUP
+
+<strong>install manually:</strong>
+<br><font size=16px># in your project folder<br>
 git clone https://github.com/lidianepimenta/escutae.git
+
